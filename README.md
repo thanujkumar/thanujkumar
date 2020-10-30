@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![THANUJ KUMAR S C's github stats](https://github-readme-stats.vercel.app/api?username=thanujkumar&show_icons=true&&count_private=true&theme=dracula)]
+
+[![Languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=thanujkumar)]
